@@ -1,8 +1,8 @@
- ---
+---
 layout: page
 title: CV
-
 ---
+
 ### Education
 
 > **College of William and Mary** Williamsburg, VA, Doctorate of Philosophy in American Studies, Fall 2012-Current  
@@ -46,8 +46,8 @@ title: CV
 
 > **Trouble in Cyborg Paradise: John Hopkin’s First National Search for Applications of Personal Computing to Aid the Handicapped,** Mountain View, CA,  Command Lines: Software, Power, and Performance, 2017  
 > **Computing the Body: Disability and Early Microcomputers in America,** Denver, CO, American Studies Association Conference, 2016  
-> **No Body Around: Posthuman Fantasies during the Personal Computer Revolution, William and Mary Graduate Research Symposium, 2016  
-> *Personal Computing to Success: Childhood in Late-Capitalism,* Chicago, IL, Social Science History Association Conference, 2016  
+> **No Body Around: Posthuman Fantasies during the Personal Computer Revolution**, William and Mary Graduate Research Symposium, 2016  
+> **Personal Computing to Success: Childhood in Late-Capitalism,** Chicago, IL, Social Science History Association Conference, 2016  
 > **The Computer Invades the Home: Popular Media and the Domestic Crisis**, Las Vegas, NV, Far West Popular Culture Association/American Culture Association, 2016 **The Cloud Takes Up Space: Assessing Materiality in the Digital Humanities**, Charleston, SC, Data Driven: Digital Humanities in the Library, 2014  
 > **The Need to Reconceptualize the Ontology of Digital Humanities Praxis**, Houston, Texas, Texas Digital Humanities Consortium Conference, 2014  
 > **Large Scale Data Analysis in Emotional History: A Case Study of the American Civil War**, Hannover, Germany, Herrenhausen Conference: “Digital Humanities Revisited—Challenges and Opportunities in the Digital Age,” 2013 **Black Western Films in the 1930s: Racial Subversion and Economics**, Madison, WI, Film and History Conference, 2013  
@@ -121,6 +121,12 @@ title: CV
 > **American Studies Association**  
 > **Social Science History Association**  
 > **Society for History of Technology**
+
+### Selected Technical Skills
+
+> **Languages**-HTML, CSS, Markdown, R, Python, Bash Scripting
+> **Content Management and Version Control Systems**: WordPress, Omeka, Cascade, Jekyll, Git
+> **Operating Systems**-Unix/Linux, Mac OS, Windows
 
 ### Language Skills
 
