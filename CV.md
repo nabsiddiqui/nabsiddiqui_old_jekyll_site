@@ -110,7 +110,7 @@ title: CV
 > **Large Scale Data Analysis in Emotional History: A Case Study of the American Civil War**-Independently created project that used large-scale data analysis to understand emotional rhetoric during the American Civil War.  The corpus for the project consisted of approximately a hundred thousand New York Times and fifty thousand Richmond Daily Dispatch articles.  Later, I was provided an Early Researcher Grant by VolkswagenStiftung to present my findings at the Herrenhausen Conference in Hannover, Germany.  
 > **Digital Atlas of American History (University of Richmond’s Digital Scholarship Lab)**-Assisted in conceptualizing the “Transportation” section of the Atlas in regards to technical infrastructure and theoretical framework.  The work was part of a larger research project to create a Digital Atlas of American History funded by the Andrew W. Mellon Foundation.  
 > **Digital Cover Scraper**-Independently created program that helps scholars scrape magazine, comic book, and news covers.  Findings were later published in *Gnovis: The Journal of Communication, Culture and Technology.*  
-> **Digital Map Scraper (University of Richmond’s Digital Scholarship Lab)-Developed in-house tool to assist in the large web scraping of maps and images from the Library of Congress.  
+> **Digital Map Scraper (University of Richmond’s Digital Scholarship Lab)**-Developed in-house tool to assist in the large web scraping of maps and images from the Library of Congress.  
 > **Digital Humanities Reading Group**-Member of small reading group organized at The College of William and Mary designed to discuss theoretical shifts in the humanities dealing with the impact of the digital age.  
 > **Minimal Computing**- Working group for Global Outlook::Digital Humanities that examines the implications of computing under constraints, such as in low-income communities and third world countries.  In addition, we also examine the power that low-cost devices have on academic research, and new ways to enhance pedagogy by incorporating ubiquitous computing devices into the classroom.
 
@@ -124,8 +124,8 @@ title: CV
 
 ### Selected Technical Skills
 
-> **Languages**-HTML, CSS, Markdown, R, Python, Bash Scripting
-> **Content Management and Version Control Systems**: WordPress, Omeka, Cascade, Jekyll, Git
+> **Languages**-HTML, CSS, Markdown, R, Python, Bash Scripting  
+> **Content Management and Version Control Systems**: WordPress, Omeka, Cascade, Jekyll, Git  
 > **Operating Systems**-Unix/Linux, Mac OS, Windows
 
 ### Language Skills
