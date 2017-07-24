@@ -222,8 +222,8 @@ blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
   color: #586173;
-  border-left: .25rem solid #586173;
 }
+
 blockquote p:last-child {
   margin-bottom: 0;
 }
