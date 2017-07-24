@@ -1,3 +1,8 @@
+---
+layout: page
+title: Archive
+
+---
 ### Education
 
 > **College of William and Mary** Williamsburg, VA, Doctorate of Philosophy in American Studies, Fall 2012-Current  
