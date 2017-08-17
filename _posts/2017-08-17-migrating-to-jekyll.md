@@ -1,0 +1,18 @@
+---
+layout: post
+title: Migrating to Jekyll 
+---
+
+I finally decided to upgrade my personal website and migrate it over to [Jekyll](https://jekyllrb.com/).  The platform is interesting because it creates static websites, and GitHub pages provides one free personal website for Jekyll making it affordable for graduate students and early career scholars.  
+
+So what was wrong with my old website?  I had hosted it on [Wordpress](https://wordpress.com/), and while it served its purpose, it was not a system that I enjoyed blogging at or even logging into.  Mainly, I used it as an online CV for people looking me up and a place where my students could see digital copies of their syllabi.  I though about the reasons why I was so hesitant to blog as a younger scholar and came up with a few that I thought may be helpful to others thinking about blogging for the first time/again:
+
+**I didn't realize that platform mattered**-Despite the recent influx in media studies on [platform studies](http://platformstudies.com), I didn't really realize how much using Wordpress annoyed me.  Every time that I looked at the dashboard to my website, a dark gloom over how complicated it was fell over me.  It required constant updates and working on the pages was a hassle.  With Jekyll, I can write my blogs in Vim using Markdown and update them quickly and efficiently.  If I really want, I can also make a blog post through the main GitHub website or [Prose.io].
+
+**I wasn't confident in my technical skills**-[Imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) seems to be rampant in the academy.  I think this was the case with trying to move the blog to Jekyll.  While I have worked with Git, CSS, Javascript, HTML, and even Jekyll itself before, I still felt that I didn't have the technical knowledge to work with something that had a steep learning curve.  I believe this has to do with the fact that the process of creating things is rarely evident to outsiders.  When I see people that have created amazing projects, I feel like they put it together in the matter of a few hours or days.  Talking to other people, however, I am reminded that most projects take a matter of months and years. 
+
+**I had a particular notion of what academic blogging is**-I always felt that academic blogging was strange.  Although it supposedly provided a public venue for academic writing, most people do not enjoy reading academic prose, and I took my posts too seriously.  I wanted to make sure that the grammar was perfect, and I wanted each post to have a huge number of citations, links, and embedded media.  In my defense, about three years ago, this seemed to be a lot more common in academic blogs.  Recently, I'v noticed that this has shifted and people are much more likely to use their blogs to talk about things that interest them outside of their professional careers.  
+
+**I didn't focus enough on posting things that I found personally interesting**-This has to do with the previous issue, but I didn't blog on my older website about anything I found interesting outside of work.  There are a lot of things that I tinker with related to technology, media, etc. which I felt weren't "academic" enough to write about.  While it may draw away the few readers I had, I hope that posting things that I am enthusiastic about will let other people "catch the bug." 
+
+Overall, I'm hoping to update the blog at least once a month with a small post.  While it adds to my already hectic schedule, it also provides an interesting outlet for some of my "side" projects.  Also, because I barely use Facebook, it may provide an outlet for others to keep up with me if they are interested. 
