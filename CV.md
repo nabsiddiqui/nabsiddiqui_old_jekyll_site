@@ -14,7 +14,7 @@ title: CV
 
 > **Provost Dissertation Fellow, College of William and Mary,** 2017- 2018  
 > **Teaching Fellow for New Media and Everyday Life**, College of William and Mary, 2016-2017   
-> *Classroom Instructor for Keio University/College of William and Mary Cross-Cultural Collaboration,* College of William and Mary, 2016
+> **Classroom Instructor for Keio University/College of William and Mary Cross-Cultural Collaboration,** College of William and Mary, 2016
 > **Teaching Fellow for Information Age in America**, College of William and Mary, Fall 2015-2016  
 > **Webmaster and Program Assistant**, American Studies, College of William and Mary, Fall 2013-Present  
 > **Teaching Assistant for Cinema and the Modernization of US Culture**, College of William and Mary, Spring 2015  
