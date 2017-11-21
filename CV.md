@@ -60,7 +60,7 @@ title: CV
 
 ### Honors/Grants/Awards/Fellowships
 
-> *MIT Press Travel Award*, 2017 
+> **MIT Press Travel Award**, 2017 
 > **William and Mary Digital Equality Lab Fellow**, 2016-Present  
 > **Sponsored Student Scholarship, Humanities Intensive Learning & Teaching,** 2014, 2016, 2017  
 > **College of William and Mary’s Dean of the Faculty of Arts and Sciences’ Research Fund,** 2015  
